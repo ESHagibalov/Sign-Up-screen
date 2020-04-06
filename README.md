@@ -7,4 +7,4 @@ There are two buttons: for SignUp and SignIn
 You can signUp in app by button "Зарегистрироваться"
 ![alt text](signUp.jpg)
 After registration you will be added to dataBase and now you may signIn by button "Войти"
-![alt text](signin.jpg)
+![alt text](signIn.jpg)
